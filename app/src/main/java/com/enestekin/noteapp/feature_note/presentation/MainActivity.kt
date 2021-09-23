@@ -1,4 +1,4 @@
-package com.enestekin.noteapp
+package com.enestekin.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
