@@ -1,0 +1,1 @@
+<img src="https://github.com/enotekin77/NoteApp/blob/master/app/src/main/res/drawable-v24/sc1.jpg?raw=true" height ="500" width="250" />  <img src="https://github.com/enotekin77/NoteApp/blob/master/app/src/main/res/drawable-v24/sc2.jpg" height= "500" width="250" /> 
